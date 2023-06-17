@@ -1,11 +1,11 @@
-About r-genetics
-================
+About r-genetics-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genetics-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=genetics
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genetics-feedstock/blob/main/LICENSE.txt)
 
 Summary: Classes and methods for handling genetic data. Includes classes to represent genotypes and haplotypes at single markers up to multiple markers on multiple chromosomes. Function include allele frequencies, flagging homo/heterozygotes, flagging carriers of certain alleles, estimating and testing for Hardy-Weinberg disequilibrium, estimating and testing for linkage disequilibrium, ...
 
